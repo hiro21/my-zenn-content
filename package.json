@@ -1,0 +1,11 @@
+{
+  "name": "my-zenn-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hiro21/my-zenn-content.git",
+  "author": "hiroyuki-seto <hiswing8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.141"
+  }
+}
